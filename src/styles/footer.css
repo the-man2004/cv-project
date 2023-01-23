@@ -1,0 +1,17 @@
+footer {
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
+
+.footer-p {
+    padding: 10px;
+    font-size: 1.3rem;
+    font-weight: 600;
+}
